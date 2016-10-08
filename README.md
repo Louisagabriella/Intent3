@@ -16,6 +16,7 @@ Dan kalau kita menyimpannya atau menekan button ok setelah mengambil gambar maka
 ![intent36](https://cloud.githubusercontent.com/assets/21364340/19214079/cbadfc0a-8da5-11e6-9d02-686d31d1175b.png)
 <br>
 # LINK APK <br>
+https://drive.google.com/open?id=0B2j5Yd_9VxeoaWF2TDdQUGtXMm8
 <br> 
 # IDENTITAS <br>
 NAMA : LOUISA GABRIELLA <br>
