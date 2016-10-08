@@ -9,9 +9,9 @@ Kita bisa menghubungi siapa saja<br>
 Kalau Kita Memilih Icon Pesan, akan Muncul Seperti di bawah ini, kita bisa mengirimkan pesan kepada siapa saja<br>
 ![inten34](https://cloud.githubusercontent.com/assets/21364340/19214073/cb703be0-8da5-11e6-92be-aa62efc5da5c.png)<br><br>
 Kalau Kita Memilih Icon Browser, akan Muncul Seperti di bawah ini, kita bisa browsing apa pun yang kita butuhkan<br>
-![intent34](https://cloud.githubusercontent.com/assets/21364340/19214075/cb730474-8da5-11e6-94b2-7d008bc4b4f6.png)<br><br>
+![intent35](https://cloud.githubusercontent.com/assets/21364340/19214078/cb7b247e-8da5-11e6-9a0e-d115e5fe4a9c.png)<br><br>
 Kalau kita Memilih Icon camer, akan muncul seperti di bawah ini, kita bisa mengambil gambar object apapun yang kita mau <br>
-![intent35](https://cloud.githubusercontent.com/assets/21364340/19214078/cb7b247e-8da5-11e6-9a0e-d115e5fe4a9c.png)<br>
+![intent34](https://cloud.githubusercontent.com/assets/21364340/19214075/cb730474-8da5-11e6-94b2-7d008bc4b4f6.png)<br>
 Dan kalau kita menyimpannya atau menekan button ok setelah mengambil gambar maka icon camera akan berubah menjadi icon foto object yang kalian foto<br>
 ![intent36](https://cloud.githubusercontent.com/assets/21364340/19214079/cbadfc0a-8da5-11e6-9d02-686d31d1175b.png)
 <br>
