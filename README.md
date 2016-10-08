@@ -1,0 +1,11 @@
+# INTENT 3 <br>
+# SCREENSHOOT:<br>
+<br>
+# LINK APK <br>
+<br> 
+# IDENTITAS <br>
+NAMA : LOUISA GABRIELLA <br>
+KELAS : XI RPL 5 <br>
+No URUT : 16 <br> 
+NIS : 4740 <br>
+NAMA SEKOLAH : SMK TELKOM MALANG
