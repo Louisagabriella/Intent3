@@ -1,9 +1,9 @@
 # INTENT 3 <br>
 # SCREENSHOOT:<br>
 Tampilan Awal. Berupa Icon Telepon, Message(pesan), Browser, dan Camera.<br>
-![inten34](https://cloud.githubusercontent.com/assets/21364340/19214073/cb703be0-8da5-11e6-92be-aa62efc5da5c.png)<br>
-Kalau Kita Memilih Icon Telepon, akan Muncul Seperti dibawah ini<br>
 ![intent31](https://cloud.githubusercontent.com/assets/21364340/19214074/cb718ee6-8da5-11e6-9e49-d781d68f4f93.png)<br>
+Kalau Kita Memilih Icon Telepon, akan Muncul Seperti dibawah ini<br>
+![inten34](https://cloud.githubusercontent.com/assets/21364340/19214073/cb703be0-8da5-11e6-92be-aa62efc5da5c.png)<br>
 Kita bisa menghubungi siapa saja<br>
 ![intent32](https://cloud.githubusercontent.com/assets/21364340/19214076/cb74eca8-8da5-11e6-8b2a-1c8bea9766e6.png)<br><br><br>
 Kalau Kita Memilih Icon Pesan, akan Muncul Seperti di bawah ini, kita bisa mengirimkan pesan kepada siapa saja<br>
